@@ -12,7 +12,7 @@ Like I mentioned before, this is an ever-changing project and new programming la
 integrate them into my skill set.
 
 ## Website
-*Placeholder_TBD*
+https://zurdoc8.github.io/the_garza_chronicles/
 
 ## Contribution
 Andres Garza (aka Zurdoc8)
