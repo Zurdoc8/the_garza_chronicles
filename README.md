@@ -17,4 +17,6 @@ https://zurdoc8.github.io/the_garza_chronicles/
 ## Contribution
 Andres Garza (aka Zurdoc8)
 
+
+
 ### Stay tuned...
