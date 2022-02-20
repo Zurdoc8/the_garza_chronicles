@@ -116,7 +116,7 @@ section {
 }
 
 .hero {
-    background-image: url(../images/Matrix.GIF);
+    background-image: url(/images/Matrix.GIF);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
